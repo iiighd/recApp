@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263151030522",
+    "project_id": "recapp-3c04e",
+    "storage_bucket": "recapp-3c04e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263151030522:android:daa74b08f6189466323943",
+        "android_client_info": {
+          "package_name": "com.example.myrecapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263151030522-kqcspgpg6r8n3c4uq5vc4s1vk44bh1bt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIa1MNvfIKDeZOwFPGu2YgdCnuMY6Mk-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263151030522-kqcspgpg6r8n3c4uq5vc4s1vk44bh1bt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
